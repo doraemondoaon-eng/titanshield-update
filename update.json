@@ -1,11 +1,11 @@
 {
-  "version": "1.0.15",
-  "notes": "อัปเดตอัตโนมัติเวอร์ชัน 1.0.15: ปรับปรุงประสิทธิภาพและหน้าตาโปรแกรม",
-  "pub_date": "2026-06-23T20:51:48.139Z",
+  "version": "1.0.16",
+  "notes": "อัปเดตอัตโนมัติเวอร์ชัน 1.0.16: ปรับปรุงประสิทธิภาพและหน้าตาโปรแกรม",
+  "pub_date": "2026-06-23T21:22:29.866Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMlFCcWdiMk9JaGJMSzEwVFMwSERzdlg0dDRwQ21oTTBnRXhTNTJlNXFXc245d3dYc0dxZzl4ZU9va2R2Q3hkRU9ibFM0alQ3Z1NheG03K3JGR21GWDk5NldEclR2L1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjQ3OTA4CWZpbGU6VGl0YW5TaGllbGRfMS4wLjE1X3g2NC1zZXR1cC5leGUKVWt2cndaOHdFTnJrUWc3eHBPQmtlWlEzeGtOQXQwSFdpTlUvc1E2c2MvNDRYSmdwZ0FJZ0plY1AzQ05JRndMeFlRWmpzOUFYZjRmVmhibjJwajBOQXc9PQo=",
-      "url": "https://github.com/doraemondoaon-eng/titanshield-update/releases/download/v1.0.15/TitanShield_1.0.15_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMlFCcWdiMk9JaFRJdldvQ2dqOXlFSXRZMUNZM2lIZzdTdGRWUUpmMlRpSXZ2MmFaWkxqb0JPUTFNM0VJeG1TcmJlMjNNYmxUVGI5ZWRuYUNkUk9DWHNxRzBVYVlkZndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMjQ5NzQ5CWZpbGU6VGl0YW5TaGllbGRfMS4wLjE2X3g2NC1zZXR1cC5leGUKbzJUZThzMytWODN0WFcwSEtOdTJZQWZJN3lSMk50S2lKMkdZdVhQWkxNeEpSTXExbkMrSmsrTE9XQXVzOEJ4OU5qdGwwbmEvaUJFYXJTdjQwL1drQkE9PQo=",
+      "url": "https://github.com/doraemondoaon-eng/titanshield-update/releases/download/v1.0.16/TitanShield_1.0.16_x64-setup.exe"
     }
   }
 }
