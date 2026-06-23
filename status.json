@@ -1,4 +1,4 @@
 {
-  "maintenance": true,
-  "message": "System is currently undergoing maintenance to upgrade performance. Please wait..."
+  "maintenance": false,
+  "message": ""
 }
